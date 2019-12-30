@@ -1,13 +1,24 @@
 ---
-title: "A Guide To Healthy Breakfast"
-date: "May 1, 2019"
-read: "1 min read" 
-topic: "FOOD"
-image: "../../images/breakfast.jpg"
+title: "Wat de liefde en marketing met elkaar gemeen hebben
+"
+date: "30 december, 2019"
+read: "3 min leestijd"
+topic: "Human-to-Human"
+image: "../../images/love.jpg"
 
 ---
-Liquorice jelly beans croissant bear claw cookie muffin chupa chups I love. Icing cake wafer marshmallow jelly jujubes gummi bears. Powder jelly-o tart chocolate cake. Carrot cake chupa chups pastry ice cream cookie brownie I love. Ice cream jujubes pie fruitcake caramels I love apple pie. Jelly danish toffee apple pie cake candy tart sugar plum wafer. Bonbon pudding tootsie roll I love. I love dessert jujubes danish oat cake powder carrot cake. Chocolate cake halvah toffee icing. Powder powder fruitcake wafer I love marshmallow oat cake I love. Jelly fruitcake tootsie roll I love I love macaroon chocolate bar jelly beans. I love jujubes bear claw caramels fruitcake candy canes I love.
+Je bent in een bar en loopt redelijk bewust tegen iemand aan die je verschrikkelijk aantrekkelijk vindt. Het eerste wat uit je mond komt:  wil je alsjeblie-hie-hieft met mij trouwen, twee kinderen krijgen en verhuizen naar Zuid-Frankrijk?
 
-Croissant bear claw pastry. Jelly-o powder I love donut lollipop jujubes jelly-o croissant. Macaroon I love pastry I love fruitcake muffin pudding brownie powder. Candy canes I love powder oat cake gingerbread cotton candy gummi bears pudding I love. Cheesecake lemon drops cupcake. Biscuit I love cookie sweet roll gummies. Soufflé halvah chocolate bar macaroon sweet. Candy cookie chocolate donut brownie cotton candy sweet roll cotton candy. I love icing tootsie roll cheesecake macaroon I love apple pie wafer. Pastry caramels I love gummi bears gingerbread muffin icing. Candy candy bonbon jelly beans chocolate cake danish. Chocolate dessert caramels muffin chocolate liquorice oat cake.
+De kans is groot dat die persoon jou een gekkie vindt. En terecht natuurlijk. Dit vinden we allemaal raar.
 
-Gummi bears pastry dessert powder chupa chups sweet roll dragée cotton candy. Bear claw pastry sesame snaps jelly-o cake powder chocolate lollipop. Donut gummies jujubes croissant I love bear claw. Cotton candy gingerbread pudding caramels cake. I love ice cream powder biscuit. Wafer biscuit cupcake. Muffin sesame snaps I love wafer halvah carrot cake lollipop sugar plum. Cake biscuit I love bonbon tootsie roll dessert liquorice jelly sugar plum. Lemon drops caramels icing caramels cake. I love gingerbread tiramisu tiramisu gummies. Lemon drops cookie chocolate bear claw cupcake. Croissant carrot cake I love croissant ice cream chupa chups I love.
+En toch blijven bedrijven deze techniek toepassen als ze iets willen verkopen: lekker direct mensen stalken met wie ze geen band hebben en waarvan velen zelfs nog nooit gehoord hebben.
+
+Ik ben mij er ook pas redelijk recentelijk van bewust. Lekker laat, ik weet het. Maar de bak kleurloze, nietszeggende informatie die ik dagelijks over mij heen krijg is zo gigantisch groot dat er mij maar een fractie van bijblijft. Een nog kleinere fractie daarvan roept iets in mij op wat mij aanzet tot actie. Zoals mijn portemonnee open te trekken, bijvoorbeeld.
+
+Ik dacht altijd dat originele reclames die mensen laten lachen volstaan om van onbekenden klanten te maken. Maar ik heb onlangs zelf ondervonden dat mensen, inclusief ik zelf vooral behoefte hebben aan informatie waar ze daadwerkelijk iets aan hebben. Aan informatie die hen verder helpt bij het oplossen van hun probleem.
+
+Toen ik van mijzelf een productiever mens wilde maken, kwam ik de fantastische nieuwsbrief van Dan Shipper tegen. Hij interviewt naar eigen zeggen de slimste mensen ter wereld over de wijze waarop ze informatie en kennis organiseren zodat ze hun beste werk doen.
+
+Elke keer wachtte ik met smart weer op een nieuwe editie vol supermooie en waardevolle informatie. Toen hij twaalf edities verder met een enquête vroeg wat ik er nu echt van vond en voor welke extra toevoeging ik eventueel zou willen betalen, reply-de ik vol enthousiasme. Dan had mij al zoveel weken zo goed geholpen dat ik de mogelijkheid zeker wilde pakken om de favor terug te doen. Ondertussen is zijn premium versie gelanceerd en sta ik op het punt om het aan te schaffen. Daar hebben zijn verkooppraatjes weinig mee te maken. Eerder de warme band die hij eerst met mij gesmeed heeft.
+
+Net zoals we in ons liefdesleven gewend zijn willen we tegenwoordig ook bedrijven en de mensen daarachter eerst wat beter leren kennen voordat we beslissen om onze kostbare tijd en onze zuurverdienden centen eraan te besteden. En dat doen die bedrijven dus door hun menselijke kant te tonen en een band met ons te smeden door oprechte pogingen te ondernemen om ons te helpen met het oplossen van onze problemen.

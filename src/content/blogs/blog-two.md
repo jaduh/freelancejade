@@ -1,13 +1,47 @@
 ---
-title: "Plan With Me"
-date: "May 1, 2019"
-read: "1 min read"
-topic: "LIFE"
-image: "../../images/typemachine.jpg"
+title: "Je grootste vijand tijdens het schrijven heet backspace
+"
+date: "1 december, 2019"
+read: "4 min leestijd"
+topic: "PRODUCTIVITEIT"
+image: "../../images/blog_1_typemachine.jpg"
 
 ---
-Dunder mifflin viral engagement, so pipeline we're ahead of the curve on that one but I just wanted to give you a heads-up. Streamline it just needs more cowbell and my supervisor didn't like the latest revision you gave me can you switch back to the first revision? nor hit the ground running, or UX. Digital literacy radical candor yet technologically savvy nor on this journey for globalize, for let's not solutionize this right now parking lot it. Who's the goto on this job with the way forward UX, radical candor and get buy-in this proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables, throughput.
+Heel de dag wroeten op een tekst van maar een paar honderd woorden. Geef toe. Dat overkomt jou ook wel eens. Je moet iets schrijven, begint te typen, maar dat lijvige stuk met 78 likes, 12 reacties en 7 shares, komt er maar niet uit.
 
-I'll book a meeting so we can solution this before the sprint is over. We don't need to boil the ocean here programmatically, thought shower value prop yet I just wanted to give you a heads-up. This vendor is incompetent three-martini lunch exposing new ways to evolve our design language, root-and-branch review let's put a pin in that but land the plane. Let's not solutionize this right now parking lot it come up with something buzzworthy streamline we need to make the new version clean and sexy streamline create spaces to explore what’s next. Back of the net low-hanging fruit.
+Om maar met een geruststelling te beginnen: it’s not you, it’s your strategy. Want met de juiste aanpak kan je vrij eenvoudig, effectief en efficiënt schrijven. En die aanpak begint met de demontage van je backspace-knop. Keukenmesje bij de hand?
 
-Fast track helicopter view let's put a pin in that. Groom the backlog target rich environment. Teams were able to drive adoption and awareness technologically savvy but if you want to motivate these clowns, try less carrot and more stick workflow ecosystem or baseline, message the initiative but what about scaling components to a global audience?. Driving the initiative forward. Value-added this is a no-brainer fire up your browser what about scaling components to a global audience?, quarterly sales are at an all-time low. Product management breakout fastworks cloud strategy back to the drawing-board waste of resources, for new economy but a loss a day will keep you focus.
+ Grapje. Zo drastisch hoeft het nu ook weer niet, maar geloof mij op mijn bruine ogen als ik zeg dat je jezelf uren tijd bespaart door er niet steeds maar weer op te drukken.
+
+Je blijft langer in die heerlijke schrijfflow zitten, je zet geen rem op je creativiteit én je spendeert geen 5 uur aan een tekst die hooguit een uurtje van je tijd in beslag hoort te nemen.
+
+##Trek voorbereid ten strijde
+Wat voor mij heel goed werkt is beseffen dat schrijven niet zomaar een kwestie is van je laptop open doen en beginnen typen in een leeg document. Dat is heel soms een succes, maar als ik voor mijzelf mag spreken: vaker niet. Zeker als er meer dingen op mijn to do-lijstje staan, helpt het om voorbereid ten strijde te trekken. Daarvoor maak ik onderscheid in drie verschillende schrijffases:
+
+Schetsen
+Schrijven
+Corrigeren
+
+Als ik die volgorde aanhoud, bevrijd ik bijna altijd mijn inner supersnelle en efficiënte schrijver.  Je weet wel, dat wat zich ook in jou schuil houdt.
+
+Ik zie schetsen en corrigeren als twee noodzakelijkheden om de heilige fase van het schrijven zo gemakkelijk en productief mogelijk te maken.
+
+##Wacht niet op geluk of inspiratie
+Want laten we eerlijk zijn. In je flow zitten is heerlijk. Vaak wordt gedacht dat je er vanzelf in raakt als je heel toevallig de juiste dosis geluk of inspiratie vindt. Maar daar geloof ik dus niet meer in. Ik ben tegenwoordig van mening dat je altijd in je flow kan komen. Mits de juiste voorbereiding en nazorg.  
+
+##Schets eerst de belangrijkste boodschap
+Schrijven begint voor mij in mijn hoofd door na te denken waarom deze tekst überhaupt geschreven moet worden. Voor wie schrijf ik het en wat schrijf ik dan best? Pas als voor mij heel duidelijk is wat ik zoal wil vertellen, begin ik te schrijven.
+
+##Verwar corrigeren niet met schrijven
+Als die schets zich gevormd heeft, komt de allerleukste fase aan: schrijven. Tegenwoordig begin ik er nooit aan zonder mezelf plechtig te beloven niet aan die backspace-knop te komen.
+
+Weet ik niet hoe een woord wordt geschreven? Dan gebruik ik XX en zoek ik het later op, als ik klaar ben. Maak ik een foutje? Jammer dan, corrigeren is voor later.  
+
+Wist je dat er apps zijn waarbij je tijdens het typen niet meer kan terugkijken? [I A Writer](https://ia.net/writer)  is er zo eentje. Misschien iets voor jou om uit te proberen.
+
+##Naar hartelust  drukken op die backspace-knop
+Pas als alles getikt is wat ik van plan was, komt de fase van het corrigeren en bijschaven aan. Formuleringen verbeteren, grapjes toevoegen, spelling opzoeken, dat doe je enkel tijdens het corrigeren.
+
+En als dat achter de rug is, komt dan eindelijk dat magische moment aan.
+
+##Drukken op die publiceer-knop.
