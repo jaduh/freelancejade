@@ -13,10 +13,10 @@ class Nav extends React.Component  {
       post_nav_container: "nav-container",
     }
   }
-  
+
   componentDidMount() {
     if(window.location.href.includes("blogs")) {
-      this.setState({ 
+      this.setState({
         home_active: false,
         about_active: false,
         is_post: true,
@@ -26,7 +26,7 @@ class Nav extends React.Component  {
       })
     }
     else if(window.location.href.includes("about")) {
-      this.setState({ 
+      this.setState({
         home_active: false,
         about_active: true,
         is_post: false,
@@ -36,21 +36,25 @@ class Nav extends React.Component  {
       })
     }
   }
-  
+
   render() {
-    const { home_classname, about_classname, post_nav_container } = this.state; 
+    const { home_classname, about_classname, post_nav_container } = this.state;
     return(
       <div className={post_nav_container} id="nav-bar">
-        <Link to="/" className="nav-brand">Amelie</Link>
+        <Link to="/" className="nav-brand">Jade Yorks</Link>
         <ul className="nav-item-container">
+
+
           <li className={home_classname} id="nav-home">
-            <Link to="/">Home</Link>
+            <a href="https://mailchi.mp/8cc43c9275e1/jadeyorks">Nieuwsbrief</a>
             <div className="underline"></div>
           </li>
+
           <li className={about_classname}>
-            <Link to="/about">About</Link>
+            <Link to="/about">Over mij</Link>
             <div className="underline"></div>
           </li>
+
         </ul>
       </div>
     );

@@ -60,7 +60,7 @@
 .blog-title {
   font-size: 1.3em;
   color: #18315C;
-  margin-bottom: 10px; 
+  margin-bottom: 10px;
 }
 
 
@@ -84,7 +84,7 @@
 
 /* Navbar Nav.js ============================= */
 .nav-container {
-  padding-top: 6%;  
+  padding-top: 6%;
   font-size: 25px;
   margin: 0 auto;
   max-width: 1300px;
@@ -154,8 +154,8 @@
 
 /* POSTPAGE - ============================= */
 .post-page-flex-container {
-  display: flex; 
-  flex-direction: row;  
+  display: flex;
+  flex-direction: row;
 }
 
 .post-image-container {
@@ -216,39 +216,47 @@
   height: 550px;
   position: relative;
   text-align: left;
-} 
+}
 
 .bio-image {
-  object-fit: cover;
+  object-fit: none;
+  object-position: 60% 70%;
   width: 100%;
   margin: 0px;
 }
 
 .containy {
   position: absolute;
+    background-color: #fff4d0;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   /* border: red 2px solid; */
-  margin-left: 20%;
+  margin-left: 15%;
+  padding: 1%;
 }
 
 .containy h1 {
-  color: #BAC0C0;
-  
+  color: black;
+
+
+  width: 60%;
+
 }
 
 .name {
-  font-size: 2.6em;
-  font-family: Roboto;
-  text-transform: uppercase;
+  font-size: 2em;
+  padding-bottom: .5rem;
+font-family: 'Big Shoulders Display', cursive;
+
   margin: 0px;
 }
 
 .short-bio {
-  font-size: 1.1em;
-  font-family: Lora;
-  width: 90%;
+  font-size: 1.2em;
+font-family: 'Big Shoulders Display', cursive;
+
+  width: 100%;
   margin: 0px;
 }
 
@@ -258,69 +266,69 @@
 }
 
 .biography-container span {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
 }
 
 
 /* Media Queries ============================= */
 /* for larger displays or for people who zoomed out their screen */
-@media all and (max-width: 2500px) {  
-  .layout-container { 
+@media all and (max-width: 2500px) {
+  .layout-container {
     padding-right: 18em;
     padding-left: 18em;
   }
 }
 
 /* for normal 100% zoom (macbook 13 inch users) */
-@media all and (max-width: 1600px) {  
-  .layout-container { 
+@media all and (max-width: 1600px) {
+  .layout-container {
     padding-right: 7em;
     padding-left: 7em;
   }
 }
 
-@media all and (max-width: 1400px) {  
-   
-  .layout-container { 
+@media all and (max-width: 1400px) {
+
+  .layout-container {
     padding-right: 4em;
     padding-left: 4em;
   }
-  
+
   .featured-blog-description {
     transform: translateY(-100%);
   }
-  
+
   .featured-blog-title {
     font-size: 1.6em;
   }
-  
+
   .featured-blog-excerpt {
     font-size: 1em;
   }
-  
+
   .featured-read-more {
     font-size: 1em;
   }
-  
+
 }
 
-@media all and (max-width: 800px) {  
+@media all and (max-width: 800px) {
   .nav-container {
-    padding-top: 10%;  
+    padding-top: 10%;
     font-size: 18px;
   }
   .post-nav-container {
     padding-top: 7%;
-    padding-bottom: 4%;  
+    padding-bottom: 4%;
     font-size: 18px;
   }
-  
-  .blog-card {  
+
+  .blog-card {
     width: 100%;
-  }  
-    
-  .layout-container { 
+  }
+
+  .layout-container {
     padding-right: 1em;
     padding-left: 1em;
   }
@@ -329,39 +337,39 @@
     margin-bottom: 4em;
     margin-top: 2rem;
   }
-  
+
   .featured-blog-title {
     font-size: 1em;
   }
-  
+
   .featured-blog-excerpt {
     font-size: .7em;
   }
-  
+
   .featured-read-more {
     font-size: 1em;
   }
-  
+
   .featured-blog-thumbnail {
     height: 450px;
   }
-  
+
   .svg-icon {
     margin-left: 16px;
   }
-  
+
   .post-page-flex-container {
-    flex-direction: column;  
+    flex-direction: column;
   }
-  
+
   .post-image-container {
     width: 100%;
   }
-  
+
   .post-image {
     height: 100%;
   }
-  
+
   .post-content-container {
     width: 100%;
     padding: 0 6%;
@@ -369,7 +377,7 @@
     height: 100%;
     background-color: white;
   }
-  
+
   .biography-container {
     margin: 5% 5%;
   }
@@ -377,4 +385,55 @@
   .footer-content-container {
     margin-bottom: 20%;
   }
+
+  .bio-image {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    margin: 0px;
+  }
+}
+
+.een{
+  min-height:60vh;
+  max-width:  100vw;
+  background: url("../images/jade.jpg");
+  background-size: cover;
+  background-position: bottom;
+}
+.twee{
+  max-width:  100vw;
+margin: 2em 0 2em 0;
+    color: #333333;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+
+
+
+}
+
+
+.center{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.enter{
+  display: block;
+  text-align:right;
+}
+
+.aangenaam{
+font-size: 1.4em;
+
+}
+.aangenaam2{
+font-size: 1.8em;
+text-align: left;
+
 }

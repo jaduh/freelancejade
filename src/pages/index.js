@@ -8,8 +8,26 @@ import FeaturedBlog from "../components/FeaturedBlog"
 const IndexPage = ({ data }) => {
   return(
     <Layout>
-      <SEO title="Amelie" />
-      <FeaturedBlog data={data.blog}/>
+      <SEO title="Jade Yorks" />
+<header>
+
+<div className = "een ">
+
+
+</div>
+<div className = "twee">
+
+
+
+
+<h1 className= "aangenaam"><span className="enter"> Hoi, ik ben Jade<span role="img" aria-label="wave emoji">
+            🙋🏾 </span>
+</span> <span className="enter">Copywriter, Storyteller en helemaal </span> <span className="enter"> weg van Human-to-Human Marketing</span></h1>
+
+
+</div>
+
+</header>
       <BlogCards data={data.blog}/>
     </Layout>
   );
@@ -21,7 +39,7 @@ export default IndexPage;
 export const query = graphql`
 {
   blog: allMarkdownRemark(
-    sort: {fields: [frontmatter___date], order: DESC} 
+    sort: {fields: [frontmatter___date], order: DESC}
     filter: { fileAbsolutePath: { regex: "/blogs/"}}
     ) {
     edges {
