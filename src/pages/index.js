@@ -20,9 +20,9 @@ const IndexPage = ({ data }) => {
 
 
 
-<h1 className= "aangenaam"><span className="enter"> Hoi, ik ben Jade<span role="img" aria-label="wave emoji">
+<h1 className= "aangenaam"><span className="enter wit"> Hoi, ik ben Jade<span role="img" aria-label="wave emoji">
             🙋🏾 </span>
-</span> <span className="enter">Copywriter, Storyteller en helemaal </span> <span className="enter"> weg van Human-to-Human Marketing</span></h1>
+</span> <span className="enter wit">Copywriter, Storyteller en helemaal </span> <span className="enter wit"> weg van Human-to-Human Marketing</span></h1>
 
 
 </div>

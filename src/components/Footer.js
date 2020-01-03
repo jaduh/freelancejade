@@ -10,8 +10,8 @@ const Footer = () => {
     <div className="footer-container">
       <hr className="horizontal-line" />
       <div className="footer-content-container">
-        <div className="copyright">© 2019 &nbsp;
-          <Link to="/" style={{ textDecoration: "none", color: "black"}}>Amelie</Link>
+        <div className="copyright">© 2020 &nbsp;
+          <Link to="/" style={{ textDecoration: "none", color: "black"}}>Jade Yorks</Link>
         </div>
         <div className="social-icons-container">
           <a href="https://twitter.com/">

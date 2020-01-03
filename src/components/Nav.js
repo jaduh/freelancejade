@@ -46,7 +46,8 @@ class Nav extends React.Component  {
 
 
           <li className={home_classname} id="nav-home">
-            <a href="https://mailchi.mp/8cc43c9275e1/jadeyorks">Nieuwsbrief</a>
+            <a href="https://expert-experimenter-9255.ck.page/209f4ab0d8
+">Nieuwsbrief</a>
             <div className="underline"></div>
           </li>
 

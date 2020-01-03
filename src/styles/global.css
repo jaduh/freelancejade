@@ -59,7 +59,7 @@
 
 .blog-title {
   font-size: 1.3em;
-  color: #18315C;
+  color: #1e369b;
   margin-bottom: 10px;
 }
 
@@ -426,6 +426,10 @@ margin: 2em 0 2em 0;
 .enter{
   display: block;
   text-align:right;
+}
+
+.wit{
+  color: #1f130f;
 }
 
 .aangenaam{

@@ -1,5 +1,5 @@
 ---
-title: "Weg met grootse nieuwjaarsvoornemens. In 2020 doe ik aan 12 kleine micro acties"
+title: "Weg met grootse nieuwjaarsvoornemens. In 2020 doe ik aan micro acties"
 date: "1 Januari 2020"
 read: "3 min read"
 topic: "nieuwjaarsvoornemens"
