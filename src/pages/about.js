@@ -23,11 +23,8 @@ const AboutPage = () => (
 
       <p>Verhalen maken daarentegen is waar mijn hart wel heerlijk gepassioneerd van klopt. Liefst doe ik hele dagen lang aan luisteren, luisteren, luisteren om vervolgens de juiste boodschap mooi en op maat in een reeks verhalen te verpakken. Heerlijk.
 </p>
-<div className="center">
-  <img src={Passion}/>
-</div>
-      <p>Ook zo heerlijk vind ik de tijden waarin we momenteel leven (op bepaalde vlakken dan). Kennis en informatie is er in overvloed waardoor slimmerds en creatievelingen met mooie ideeën de samenleving  nóg eerlijker, duurzamer, warmer en mooier kunnen maken.</p>
-<p>Mijn missie is om mensen en bedrijven die het beste voor hebben met de wereld daarmee te helpen.
+
+      <p>Mijn missie is om mensen en bedrijven die het beste voor hebben met de wereld te helpen om hun boodschap bij de juiste mensen over te brengen. Niet als vluchtig vergeten nieuwsfeiten, maar als aantrekkelijke verhalen waar mensen maar niet over uitgepraat raken.
 </p>
 
     </div>
