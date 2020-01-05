@@ -26,7 +26,12 @@ const AboutPage = () => (
 
       <p>Mijn missie is om mensen en bedrijven die het beste voor hebben met de wereld te helpen om hun boodschap bij de juiste mensen over te brengen. Niet als vluchtig vergeten nieuwsfeiten, maar als aantrekkelijke verhalen waar mensen maar niet over uitgepraat raken.
 </p>
-
+<div className="center-column">
+<h2>Meer weten?</h2>
+<a href="https://expert-experimenter-9255.ck.page/209f4ab0d8
+"><button>Schrijf je in voor mijn nieuwsbrief</button></a>
+<a href="/"><h2>Of volg mijn blog</h2></a>
+</div>
     </div>
   </div>
 )

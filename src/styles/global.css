@@ -428,6 +428,14 @@ margin: 2em 0 2em 0;
   justify-content: center;
   align-items: center;
 }
+.center-column{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
 .enter{
   display: block;
   text-align:right;
