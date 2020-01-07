@@ -14,16 +14,16 @@ const Footer = () => {
           <Link to="/" style={{ textDecoration: "none", color: "black"}}>Jade Yorks</Link>
         </div>
         <div className="social-icons-container">
-          <a href="https://twitter.com/">
+          <a href="https://twitter.com/jaduh">
             <TwitterSVG />
           </a>
-          <a href="https://medium.com/">
+          <a href="https://medium.com/@jadeyorks">
             <MediumSVG />
           </a>
-          <a href="https://www.linkedin.com/">
+          <a href="https://www.linkedin.com/in/jade-yorks-a4a20b2a/">
             <LinkedInSVG />
           </a>
-          <a href="https://www.instagram.com/">
+          <a href="https://www.instagram.com/jadeyorks">
             <InstagramSVG />
           </a>
         </div>

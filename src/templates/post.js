@@ -2,10 +2,11 @@ import React from "react";
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import Nav from "../components/Nav"
+import Bio from "../components/Bio"
 
 export default ({ data }) => {
   const post = data.markdownRemark;
-  
+
   return (
     <div>
       <Nav post={true}/>
@@ -14,15 +15,18 @@ export default ({ data }) => {
             <div className="post-image-container">
               <Img className="post-image" sizes={post.frontmatter.image.childImageSharp.sizes} />
             </div>
-            
+
             <div className="post-content-container">
               <h1>{post.frontmatter.title}</h1>
               <h4 style={{color: 'rgb(165, 164, 164)', fontSize: '0.8em'}}>{post.frontmatter.date} - {post.frontmatter.read}</h4>
               <div dangerouslySetInnerHTML = {{ __html: post.html }}/>
+
+<Bio />
             </div>
           </div>
-          
+
         </div>
+
     </div>
   );
 };
