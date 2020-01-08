@@ -21,7 +21,7 @@ export default ({ data }) => {
               <h4 style={{color: 'rgb(165, 164, 164)', fontSize: '0.8em'}}>{post.frontmatter.date} - {post.frontmatter.read}</h4>
               <div dangerouslySetInnerHTML = {{ __html: post.html }}/>
 
-
+<Bio post={true}/>
             </div>
           </div>
 
