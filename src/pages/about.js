@@ -29,7 +29,7 @@ const AboutPage = () => (
 <div className="center-column">
 <h3>Meer weten?</h3>
 <a href="https://expert-experimenter-9255.ck.page/209f4ab0d8
-"><button>Schrijf je in voor mijn nieuwsbrief</button></a>
+"><h4>Schrijf je in voor mijn nieuwsbrief</h4></a>
 <a href="/"><h4>Volg mijn blog</h4></a>
 
 <a href="mailto:jadeyorks@gmail.com?Subject=Hoi%20Ik%20moet%20je%20spreken!again" target="_top"><h4>Of praat met mij</h4></a>
@@ -71,9 +71,20 @@ const AboutPage = () => (
 </li>
 <li>Sterkere video(nabewerkings)skills
 </li>
-<li>Programmeren van interactieve webapplicaties op maat van een goed verhaal
+<li>Human-to-Human marketing
+</li>
+<li>Nog sneller en effectiever schrijven
 </li>
     </div>
+<div className="center-column">
+  <h4>Ik heb sindskort een eigen zaak waarmee ik bedrijven help om te scoren met verhalen.
+
+        <a href="mailto:jadeyorks@gmail.com?Subject=Hoi%20Ik%20moet%20je%20spreken!again">Mail me</a>
+        als je denkt dat ik iets voor jou kan betekenen.
+  
+  </h4>
+</div>
+
   </div>
 )
 
