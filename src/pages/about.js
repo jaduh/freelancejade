@@ -1,7 +1,7 @@
 import React from "react"
 import SEO from "../components/Seo"
 import Nav from "../components/Nav"
-import ppl from "../images/jade.jpg"
+import ppl from "../images/jadegrafi.jpeg"
 import Passion from "../images/passion.png"
 
 const AboutPage = () => (
@@ -39,51 +39,9 @@ const AboutPage = () => (
 
 
 </div>
-<h2>Omdat ik van lijstjes houd (wie niet?), vind je hieronder een collectie van lijstjes over mij.</h2>
-<h4>Leven</h4>
-<ul>
-  <li>Geboren in Den Haag
-  </li>
-  <li>Uit bouwjaar ‘86
-  </li>
-  <li>Woont momenteel in Antwerpen, maar voelt zich soms nog steeds wat Haags en  Paramaribo’s
-  </li>
-  <li>Zette maar liefst twee keer een lief en temperament vol mensje op de wereld
-  </li>
-</ul>
-<h4>Werk</h4>
-<ul>
-  <li>Expert in verhalen maken
-  </li>
-  <li>Sterke storytelling en content marketingskills
-  </li>
-  <li>Gepassioneerd over het maken van verhalen die oplossingen aanreiken voor problemen
-  </li>
-  <li>Goede communicatie- en samenwerkingsskills
-  </li>
-  <li>Ervaring met doelgroepgerichte contentcreatie
-  </li>
-  <li>Uitmuntende luisterskills
-  </li>
-</ul>
-<h4>Waar ik in wil verbeteren</h4>
-<li>E-mailmarketing
-</li>
-<li>Sterkere video(nabewerkings)skills
-</li>
-<li>Human-to-Human marketing
-</li>
-<li>Nog sneller en effectiever schrijven
-</li>
-    </div>
-<div className="center-column">
-  <h4>Ik heb sindskort een eigen zaak waarmee ik bedrijven help om te scoren met verhalen.
 
-        <a href="mailto:jadeyorks@gmail.com?Subject=Hoi%20Ik%20moet%20je%20spreken!again">Mail me</a>
-        als je denkt dat ik iets voor jou kan betekenen.
-  
-  </h4>
-</div>
+    </div>
+
 
   </div>
 )

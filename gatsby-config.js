@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Amelie`,
-    description: `A minimal and mobile friendly blog template`,
-    author: `@gatsbyjs`,
+    title: `Jade Yorks`,
+    description: `Je favoriete copywriter die jouw belangrijkste boodschap eigenhandig in het vizier brengt bij de mensen die er voor jou toe doen. Storytelling is daarbij haar machtigste wapen.`,
+    author: `@jadeyorks`,
   },
   plugins: [
     `gatsby-transformer-remark`,
