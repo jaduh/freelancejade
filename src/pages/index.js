@@ -22,7 +22,7 @@ const IndexPage = ({ data }) => {
 
 <h1 className= "aangenaam"><span className="enter wit jade"> Hoi, ik ben Jade<span role="img" aria-label="wave emoji">
             🙋🏾 </span>
-</span> <span className="enter wit">Copywriter, storyteller en ik help bedrijven </span> <span className="enter wit"> als de jouwe impact maken  met verhalen</span></h1>
+</span> <span className="enter wit">En ik ben nogal geobsedeerd door storytelling, </span> <span className="enter wit"> content marketing en bedrijven die goed doen</span></h1>
 
 
 </div>
