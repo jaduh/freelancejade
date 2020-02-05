@@ -3,10 +3,10 @@
 title: "Waarom luisteren mijn superpower is. En hoe dat ook de jouwe kan zijn.
 
 "
-date: "january 17, 2020"
+date: "january 27, 2020"
 read: "4 min leestijd"
 topic: "1 LUISTEREN"
-image: "../../images/blog_4_luisteren.jpg"
+image: "../../images/duotone/duoluisteren.jpg"
 
 ---
 Mijn 4-jarige dochter is behoorlijk fan van de Netflix-kinderserie Super Monsters. Voor wie geen Netflix-kijkende kinderen heeft: het gaat over peuters die steeds ‘s avonds als normale kinderen aankomen in de peuterspeelzaal, maar als de zon ondergaat, veranderen in monsters met  superkrachten. Best geinig om te zien. De laatste keer vroeg dochterlief wat mijn superkracht was. Die van haar was haar vermogen om te vliegen. Over die van mij moest ik even nadenken, maar besloot toen: luisteren is de mijne.  

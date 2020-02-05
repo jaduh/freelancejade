@@ -4,7 +4,7 @@ title: "Wat de liefde en marketing met elkaar gemeen hebben
 date: "december 30, 2019"
 read: "3 min leestijd"
 topic: "Human-to-Human"
-image: "../../images/love.jpg"
+image: "../../images/hart.jpg"
 
 ---
 Je bent in een bar en loopt redelijk bewust tegen iemand aan die je verschrikkelijk aantrekkelijk vindt. Het eerste wat uit je mond komt:  wil je alsjeblie-hie-hieft met mij trouwen, twee kinderen krijgen en verhuizen naar Zuid-Frankrijk?
