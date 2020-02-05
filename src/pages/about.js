@@ -1,7 +1,7 @@
 import React from "react"
 import SEO from "../components/Seo"
 import Nav from "../components/Nav"
-import ppl from "../images/jadegrafi.jpeg"
+import ppl from "../images/jade.jpg"
 import Passion from "../images/passion.png"
 
 const AboutPage = () => (

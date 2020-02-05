@@ -3,7 +3,7 @@
 title: "Waarom luisteren mijn superpower is. En hoe dat ook de jouwe kan zijn.
 
 "
-date: "17 januari, 2020"
+date: "january 17, 2020"
 read: "4 min leestijd"
 topic: "1 LUISTEREN"
 image: "../../images/blog_4_luisteren.jpg"

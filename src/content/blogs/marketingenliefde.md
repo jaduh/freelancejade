@@ -1,7 +1,7 @@
 ---
 title: "Wat de liefde en marketing met elkaar gemeen hebben
 "
-date: "30 december, 2019"
+date: "december 30, 2019"
 read: "3 min leestijd"
 topic: "Human-to-Human"
 image: "../../images/love.jpg"

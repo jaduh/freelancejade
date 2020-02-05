@@ -236,8 +236,8 @@
 }
 
 .bio-image {
-  object-fit: none;
-  object-position: 60% 70%;
+  object-fit: cover;
+  object-position: 60% 80%;
   width: 100%;
   margin: 0px;
 }
@@ -250,13 +250,13 @@
 
 .containy {
   position: absolute;
-    background-color: #fff4d0;
+    background-color: rgba(255, 180, 156,.7);
     width: 30%;
-  top: 70%;
+  top: 30%;
   left: 20%;
   transform: translate(-50%, -50%);
   /* border: red 2px solid; */
-  margin-left: 15%;
+  margin-left: 55%;
   padding: 1%;
 }
 
@@ -430,10 +430,11 @@ font-size: 25px;
 .een{
   min-height:60vh;
   max-width:  100vw;
-  background: url("../images/jade.jpg");
-  background-size: cover;
+  background: url("../images/impact.jpg");
+  background-size:contain;
   background-position: bottom;
-  clip-path: polygon(0 0, 100% 0, 100% 76%, 0% 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 84%, 49% 100%, 0 100%);
+
 
 }
 .twee{
