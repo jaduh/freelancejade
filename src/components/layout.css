@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Anton|Big+Shoulders+Display|Big+Shoulders+Text&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton|Big+Shoulders+Display|Big+Shoulders+Text|Open+Sans+Condensed:300&display=swap');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -216,10 +216,11 @@ html {
   overflow-y: scroll;
 }
 button{
-  margin: 1em;
-  padding: 1em;
+  margin: .5em;
+  padding: .5em;
   background: #1e369b;
   color:white;
+  font-family: "Big Shoulders Display";
   cursor:pointer;
   font-size: 1.3em;
 }
@@ -280,7 +281,7 @@ h2 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+
   color: inherit;
   font-family:  'Big Shoulders Text', cursive;
 
@@ -421,7 +422,7 @@ p {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+
 }
 figure {
   margin-left: 0;

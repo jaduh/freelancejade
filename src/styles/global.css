@@ -223,6 +223,21 @@
   clip-path: polygon(0 0, 100% 0, 100% 76%, 0% 100%);
 
 }
+
+.bio-container-sales{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 750px;
+  padding: 25px;
+  position: relative;
+  text-align: left;
+  clip-path: polygon(0 0, 100% 0, 100% 76%, 0% 100%);
+
+
+}
+
+
 .bio-container2 {
 
 
@@ -241,6 +256,13 @@
   width: 100%;
   margin: 0px;
 }
+
+.bio-image-sales {
+  object-fit: cover;
+  object-position: 40% 40%;
+  width: 100%;
+  margin: 0px;
+}
 .bio-image2 {
   object-fit:contain;
   width: 100%;
@@ -253,7 +275,7 @@
     background-color: rgba(255, 180, 156,.7);
     width: 30%;
   top: 30%;
-  left: 20%;
+  left: 8%;
   transform: translate(-50%, -50%);
   /* border: red 2px solid; */
   margin-left: 55%;
@@ -284,6 +306,10 @@ font-family: 'Big Shoulders Display', cursive;
   margin: 0px;
 }
 
+.post-content-container p{
+  font-size: 1.5em;
+  line-height: normal;
+}
 
 .biography-container {
   margin: 5% 20%;
@@ -299,6 +325,17 @@ font-size: 25px;
   font-weight: bold;
 }
 
+.sale-heading{
+  font-family:'Confortaa', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+.sale-foto{
+    background: url("../images/hoofd.png");
+   background-size: cover;
+   width: 70%;
+   height: 50vh;
+}
 
 /* Media Queries ============================= */
 /* for larger displays or for people who zoomed out their screen */
@@ -409,6 +446,7 @@ font-size: 25px;
     overflow: visible;
     height: 100%;
     background-color: white;
+
   }
 
   .biography-container {
@@ -431,9 +469,31 @@ font-size: 25px;
   min-height:60vh;
   max-width:  100vw;
   background: url("../images/impact.jpg");
-  background-size:contain;
+  background-size:cover;
   background-position: bottom;
-  clip-path: polygon(0 0, 100% 0, 100% 84%, 49% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%);
+
+
+}
+
+.een-sales{
+  min-height:60vh;
+  max-width:  100vw;
+  background: url("../images/schreeuw.png");
+  background-size:cover;
+  background-position: center;
+  clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%);
+
+
+}
+
+.een-about{
+  min-height:60vh;
+  max-width:  100vw;
+  background: url("../images/jade.jpg");
+  background-size:cover;
+  background-position: 60% 70%;
+  clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%);
 
 
 }
@@ -477,7 +537,7 @@ margin: 2em 0 2em 0;
 }
 
 .jade{
-  font-size:2em;
+  font-size:1.5em;
   color:#ffb49c;}
 
 .aangenaam{

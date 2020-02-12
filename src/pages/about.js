@@ -3,19 +3,22 @@ import SEO from "../components/Seo"
 import Nav from "../components/Nav"
 import ppl from "../images/jade.jpg"
 import Passion from "../images/passion.png"
+import Layout from "../components/Layout"
 
 const AboutPage = () => (
-  <div>
+  <Layout>
     <SEO title="About" />
-    <Nav />
-    <div className = "bio-container">
-      <img className="bio-image" src={ppl} alt='' />
-      <div className="containy">
-        <h1 className="name">Hi, ik ben Jade</h1>
-        <p className="short-bio">Mij mag je altijd storen voor een lekker bordje homemade Thai, een mooi verhaal of een goed gesprek over storytelling en content marketing.
+  
+
+    <div className = "een-about">
+    <div className="containy">
+      <h1 className="name">Hi, ik ben Jade</h1>
+      <p className="short-bio">Mij mag je altijd storen voor een lekker bordje homemade Thai, een mooi verhaal of een goed gesprek over storytelling en content marketing.
 </p>
-      </div>
     </div>
+
+    </div>
+
 
     <div className="biography-container">
       <p><span>O</span> oit was het mijn droom om journalist te zijn, maar dat hijgen en jagen achter het laatste nieuws bleek niet zo mijn ding.
@@ -28,7 +31,7 @@ const AboutPage = () => (
 </p>
 <div className="center-column">
 <h3>Meer weten?</h3>
-<a href="https://expert-experimenter-9255.ck.page/209f4ab0d8
+<a href="https://expert-experimenter-9255.ck.page/4769f9e9f1
 "><h4>Schrijf je in voor mijn nieuwsbrief</h4></a>
 <a href="/"><h4>Volg mijn blog</h4></a>
 
@@ -43,7 +46,7 @@ const AboutPage = () => (
     </div>
 
 
-  </div>
+  </Layout>
 )
 
 

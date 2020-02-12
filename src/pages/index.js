@@ -4,6 +4,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import BlogCards from "../components/BlogCards"
 import FeaturedBlog from "../components/FeaturedBlog"
+import { Link } from "gatsby"
 
 const IndexPage = ({ data }) => {
   return(
@@ -22,6 +23,8 @@ const IndexPage = ({ data }) => {
 
 <h1 className= "aangenaam"><span className="enter wit jade"> Ik help bedrijven als de jouwe
   </span> <span className="enter wit jade">impact maken met verhalen</span> </h1>
+  <Link to="/sales"><button>Vertel me meer</button></Link>
+
 
 
 </div>
