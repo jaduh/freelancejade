@@ -1,5 +1,5 @@
 ---
-title: "Kunnen verhalen bijdragen aan ontmoetingen die de samenleving warmer maken?
+title: "Kunnen verhalen iets bijdragen aan ontmoetingen die de samenleving warmer maken?
 "
 date: "2020-02-21"
 read: "3 min leestijd"
