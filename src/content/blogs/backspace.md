@@ -1,7 +1,7 @@
 ---
 title: "Je grootste vijand tijdens het schrijven heet backspace
 "
-date: "december 1, 2019"
+date: "2019-12-01"
 read: "4 min leestijd"
 topic: "PRODUCTIVITEIT"
 image: "../../images/blog_1_typemachine.jpg"

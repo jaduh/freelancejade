@@ -4,6 +4,8 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import BlogCards from "../components/BlogCards"
 import FeaturedBlog from "../components/FeaturedBlog"
+import Pijltje from "../Icons/downward.png"
+
 import { Link } from "gatsby"
 
 const IndexPage = ({ data }) => {
@@ -21,9 +23,15 @@ const IndexPage = ({ data }) => {
 
 
 
-<h1 className= "aangenaam"><span className="enter wit jade"> Ik help bedrijven als de jouwe
-  </span> <span className="enter wit jade">impact maken met verhalen</span> </h1>
-  <Link to="/sales"><button>Vertel me meer</button></Link>
+<h1 className= "aangenaam"><span className="enter wit jade"> Hi, ik ben Jade.
+  </span>
+  <a href="https://expert-experimenter-9255.ck.page/4769f9e9f1
+"><span className="enter wit">Schrijf je in voor mijn nieuwsbrief</span></a>
+   <span className="enter pink"> en volg mijn zoektocht naar meer impact met verhalen</span>
+</h1>
+
+
+
 
 
 

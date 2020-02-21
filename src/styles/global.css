@@ -471,7 +471,7 @@ font-size: 25px;
   background: url("../images/impact.jpg");
   background-size:cover;
   background-position: bottom;
-  clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%);
+  /* clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%); */
 
 
 }
@@ -493,7 +493,7 @@ font-size: 25px;
   background: url("../images/jade.jpg");
   background-size:cover;
   background-position: 60% 70%;
-  clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%);
+  /* clip-path: polygon(0 0, 100% 0, 99% 85%, 44% 100%, 35% 100%, 0 100%); */
 
 
 }
@@ -539,7 +539,16 @@ margin: 2em 0 2em 0;
 .jade{
   font-size:1.5em;
   color:#ffb49c;}
+.pink{
+    color:#ffb49c;
+}
 
+.flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
 .aangenaam{
 font-size: 1.7em;
 

@@ -8,12 +8,12 @@ import Layout from "../components/Layout"
 const AboutPage = () => (
   <Layout>
     <SEO title="About" />
-  
+
 
     <div className = "een-about">
     <div className="containy">
       <h1 className="name">Hi, ik ben Jade</h1>
-      <p className="short-bio">Mij mag je altijd storen voor een lekker bordje homemade Thai, een mooi verhaal of een goed gesprek over storytelling en content marketing.
+      <p className="short-bio">Mij mag je altijd storen voor pizza, een mooi verhaal of een goed gesprek over storytelling en content marketing.
 </p>
     </div>
 
