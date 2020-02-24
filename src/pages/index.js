@@ -27,7 +27,7 @@ const IndexPage = ({ data }) => {
   </span>
   <a href="https://expert-experimenter-9255.ck.page/4769f9e9f1
 "><span className="enter wit">Schrijf je in voor mijn nieuwsbrief</span></a>
-   <span className="enter pink"> en volg mijn zoektocht naar meer impact met verhalen</span>
+   <span className="enter pink"> en volg mijn avonturen voor meer impact met verhalen</span>
 </h1>
 
 
